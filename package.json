@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/dinescuvictor/pak/issues"
   },
-  "homepage": "https://github.com/dinescuvictor/pak#readme"
+  "homepage": "https://github.com/dinescuvictor/pak#readme",
+  "publishConfig": {
+    "@dinescuvictor:registry": "https://npm.pkg.github.com"
+  }
 }
